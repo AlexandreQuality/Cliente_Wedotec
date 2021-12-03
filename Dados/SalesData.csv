@@ -1,0 +1,334 @@
+Product_Id,Product_Name,Quantity,Price
+5632,"Heat Shrink Tube - 1mm Dia, Black, 1 Meter Length",4,5
+50548,"Heat Shrink Tube - 1mm Dia, Black, 1 Meter Length",10111,5
+100000,"Heat Shrink Tube - 1mm Dia, Black, 1 Meter Length",10111,5
+5371,"GSM Antenna - SMA - 5cm (50mm/2"") - 3G",6,65
+5366,TCS34725 RGB Color Sensor Module -  IR filter and White LED - Digital I2C Output,12,450
+5392,SMA to IPX/IPEX/uFL/u.FL RF Adapter Cable - 30cm,4,165
+5369,"2.4 Ghz, 3DB Antenna, SMA - White",2,135
+5379,XL6005 - XL6005E1 -TO252 - Step-Up DC Power Converter IC,5,75
+5381,N76E003 - N76E003AT20 Nuvoton Development Board,2,320
+3774,Altera USB Blaster - ByteBlaster II CPLD FPGA Download Cable JTAG Chain Debugger,43,850
+5382,NULINK - Nu-Link - Nuvoton - ICP - SWD - USB Programmer,4,1500
+5375,N76E003 - N76E003AT20 - Nuvoton - TSSOP20 - 1T-8051 - 16MHz - 12 bit ADC - 2x UART,2,45
+4569,HT9200A - SOIC8 - Holtek - DTMF Tone Generator IC,4,15
+4481,1 Channel Capacitive Touch Module - TTP223,2,175
+4834,MAX9814 Microphone Amplifier AGC Auto Gain Control,3,350
+4808,STM32F105RBT6 - USB Host - ARM M3,6,300
+5278,USB Enclosure - Black Translucent,1,35
+5403,MAX491 MAX491CSD MAX491ESD - SOIC14 - RS485 - RS422 Transceiver,3,27
+5537,RPR220 - Infrared Optical Reflective Type Photosensor (Photoreflector),3,35
+5536,"OLED Display Board 0.96"" 128x64 White SPI - 7 Pins - SSD1306",24,425
+5535,"OLED Display Board 0.96"" 128x64 White I2C - 4 Pins - SSD1306",2,425
+5360,USB 3.0 B-type Female 9 Pin 90 Deg Right Angle PCB Mount,3,75
+4830,USB 2.0 - A-Type Female - 4 pin - DIY Wire Solder - Black,12,20
+5395,USB 3.0 A-type Female - Right Angle - Through Hole - PCB Mount - 9 pins,2,25
+5362,USB 3.1 Type-C 6pin for Power/Charging - Reversible,23,25
+5365,USB 3.1 Type-C 16pin Reversible,12,35
+5401,Micro USB 2.0 - 5 pin - DIY Wire Solder - White,2,20
+5384,USB 2.0 - A-Type Plug Male - 4 pin - DIY Wire Solder - Black,56,20
+5534,HR202L - HR202 - Humidity sensitive resistor,43,65
+5479,HCPL-0631-500E - HCPL0631 - SMD - SOIC8 - Dual Channel High Speed Optocoupler,23,65
+5283,HDMI A-type 19P HD Female Double Row Through Hole,12,45
+5404,AC Line Filter - MTC21811,15,22
+5389,AC Line Filter - MTC21808,16,22
+5372,Audio & Signal Coupling Isolation Transformer 1:1 5-pin 1000:1000,74,75
+5533,Flame Sensor - 5mm IR Diode - YG1006,32,12
+5532,Mounting Bracket - Clamping Kit for Fingerprint Sensors R305 R307 - Black,23,220
+5531,Finger Print Sensor R307 (New R305),43,1750
+5514,SIM Card Holder - 6 pin - Push In - Eject Yellow Pin - SIM Tray,2,58
+4703,Humidity Sensor Module - HR202,3,125
+5530,LoRa RF Module - RA-02 - SX1278 - 433 Mhz - SPI - Wireless Transceiver - IPEX,6,625
+5529,LoRa RF Module - RA-01 - SX1278 - 433 Mhz - SPI - Wireless Transceiver - Spring Antenna,7,625
+5525,LDR - Light Dependent Resistor - GL5528 - 5mm,9,6
+5524,LDR - Photosensitive Resistor - Waterproof - GL5528 - JST PH 2.0mm 2P,8,25
+5495,5V@1A AC-DC Isolated SMPS - 220V Input - 5V 1000mA DC output,4,220
+5527,RG178 RF Coaxial cable - 50 ohm - Dia 1.8mm - 1 Meter,2,120
+4426,Jumper Wires - Male/Female - 10 way - 20cm (8 In),6,25
+3940,Dust Cover - DB9,2,6
+3930,Jumper Wires - Female/Female - 10 way - 20cm (8 In),5,25
+3840,Serial Communication Cable - 3 Core - M2F DB9 - TX/RX/GND - RS232 - 1.5 Meters,4,65
+3041,Jumper Wires - Male/Male - 10 way - 20cm (8 In),2,30
+4259,White LED 3mm,1,2
+5520,SIM Card Holder - 6 pin - Push In type,4,12
+5519,Nano SIM Card Holder - 6 pin - Flip Open - Metal Hinge,5,25
+5518,Micro SIM Card Socket - 6 pin - Flip Open - Metal Hinge,7,15
+5517,SIM Card Holder - 6 pin - Flip Open - Metal Hinge,23,12
+5516,Nano SIM card Socket - 6 Pins - Push In type,4,20
+5515,Micro SIM Card Socket - 6 pins - Spring Loaded Push type,15,30
+5513,SIM Card Holder - 6 pin - Flip Open - Hinge Cover Type,54,12
+5498,12V@0.4A AC-DC Isolated SMPS - 220V Input - 12V 400mA DC output,34,180
+5497,5V@0.7A AC-DC Isolated SMPS - 220V Input - 5V 700mA DC output,56,180
+5500,2mm Spacer for 3mm(T-1) LEDs,7,1
+5499,Solid State Relay(SSR) DC(24V) - AC(100-240V) 2A,6,145
+5496,AC-DC Isolated Power Module 220V to 12V@0.41A (410mA) 5W SMPS Vertical Mounting,8,180
+5489,Micro USB Connector - B Female - 5 Pin Through Hole - Vertical Mounting,4,15
+4513,AC-DC Isolated Power Module 220V to 5V@0.6A 3W HLK-PM01,54,300
+5432,QFP64 TQFP64 - 0.5mm - Body 10x10mm (12x12mm with Pins) - ZIF Socket,45,1950
+5431,QFP48 TQFP48 LQFP48 PQFP48 - 0.5mm - Body 7x7mm (9x9mm with Pins) - ZIF Socket,4,1850
+5430,QFP44 TQFP44 LQFP44 - 0.8mm - Body 10x10mm(12x12mm with Pins) - ZIF Socket,3,1450
+5429,QFP32 PQFP32 TQFP32 - 0.5mm - Body 5x5mm (7x7mm with Pins) - ZIF Socket,2,1450
+5428,TSSOP20 SSOP20 - 0.65mm - Body 5.3mm - ZIF Socket,52,500
+5427,TSSOP28 SSOP28 - 0.65mm - Body 5.3mm - ZIF Socket,5,500
+5426,TSSOP10 SSOP10 - 0.65mm - Body 4.4mm - ZIF Socket,2,500
+5425,TSSOP24 SSOP24 - 0.65mm - Body 4.4mm - ZIF Socket,3,500
+5424,TSSOP24 SSOP24 - 0.65mm - Body 5.3mm - ZIF Socket,5,500
+5423,TSSOP14 SSOP14 - 0.65mm - Body 4.4mm - ZIF Socket,2,500
+5422,TSSOP16 SSOP16 - 0.65mm - Body 4.4mm - ZIF Socket,5,500
+5421,SOIC24 SOP24 - 1.27mm - Body 7.5mm (300mils) - ZIF Socket,2,500
+5420,SOIC18 SOP18 - 1.27mm - Body 300mil (7.5mm),5,500
+5419,SOIC20 SOP20 - 1.27mm - Body 7.5mm (300mils) - ZIF Socket,6,500
+5418,TSSOP8 SSOP8 - 0.65mm - Body 4.4mm - ZIF Socket,6,500
+5417,SOIC16 SOP16 - 1.27mm - Body 7.5mm (300mil) - ZIF Socket,3,500
+5416,SOIC16 - 1.27mm - Body 5.3/5.4mm (0.209 inch) - ZIF Socket,8,500
+5414,QFP32 - TQFP32 - FQFP32 - 0.8mm - Body 7x7mm (9x9mm with Pins) - ZIF Socket,4,1850
+5413,SOIC14 - 1.27mm - Body 3.9mm (150mil) - ZIF Socket,3,500
+5412,TSSOP28 SSOP28 - 0.65mm - Body 4.4mm - ZIF Socket,9,500
+5411,SOIC20 SOP20 - 1.27mm - Body 5.3/5.4mm (0.209 inch) - ZIF Socket,45,500
+5410,SOIC16 - 1.27mm - Body 3.9mm - ZIF Socket,3,500
+5409,SOIC8 - 1.27mm - Wide Body 5.25/5.28/5.3/5.4mm (0.209 inch) - ZIF Socket,3,500
+5415,Universal Test Clip for SOIC8 1.27mm both Narrow & Wide Body,23,850
+3986,Stereo Socket - PCB Mount - 3.5mm,2,9
+5494,AC-DC Isolated Power Module 220V to 12V@0.41A 5W HLK-5M12,23,355
+5493,AC-DC Isolated Power Module 220V to 3.3V@1.5A 5W HLK-5M03,45,355
+5492,AC-DC Isolated Power Module 220V to 5V@1A 5W HLK-5M05,3,355
+5491,AC-DC Isolated Power Module 220V to 12V@0.25A 3W HLK-PM12,53,325
+5490,AC-DC Isolated Power Module 220V to 3.3V@0.9A 3W HLK-PM03,2,325
+5488,2.4 Ghz Antenna for Wifi with IPX/IPEX Cable,1,135
+5487,SMA Male - Wire Solder - RG178 - SMA-1.5 Female Thread 50-1.5,11,38
+5512,15mm Spacer for 3mm(T-1) LEDs,12,1
+5501,3mm Spacer for 3mm(T-1) LEDs,12,1
+5481,Fuse Holder Clip - Pitch 5.08mm - PCB Mount for 5x20mm Fuse,23,3
+5480,Fuse Holder with Transparent Cover for 5x20mm Fuses - PCB Mount,14,15
+5405,PCB Ruler for Quick SMD Footprint & Dimensions Query,8,285
+5486,Switch with White LED 12x12x7.3mm,7,34
+5485,Switch with Green LED 12x12x7.3mm,4,34
+5484,Switch with Orange LED 12x12x7.3mm,3,34
+5483,Switch with Blue LED 12x12x7.3mm,3,34
+5482,Switch with Red LED 12x12x7.3mm,4,34
+5476,White SMD LED 0603,6,2
+5475,Orange SMD LED 0603,7,2
+5474,Green SMD LED 0603,7,2
+5461,LQFP100 0.65mm pitch (RTL8019 Ethernet chip) (cy7c68013) SMD Adapter PCB,3,95
+5460,TO263-8 D2-PAK SMD Adapter PCB,5,55
+5459,QFP / EQFP / TQFP / LQFP 80/84/92/100 0.5mm SMD Adapter PCB,2,95
+5458,QFN80 LQFP80 0.65mm SMD Adapter PCB,56,55
+5457,SSOP48 0.635mm SMD Adapter PCB,3,50
+5456,FPC FFC 40p 38p 36p 34p 32p 0.5mm SMD Adapter PCB,4,55
+5455,QFN28 0.4mm (Body 4x4mm) / QFN28 0.5mm (Body 5x5mm) SMD Adapter PCB,6,55
+5454,QFN48 0.5mm SMD Adapter PCB,3,55
+5453,FPC FFC 30p 28p 26p 24p 22p 0.5mm SMD Adapter PCB,4,40
+5452,QFN44 0.5mm SMD Adapter PCB,98,50
+5462,QFP/EQFP/PQFP/TQFP/LQFP/FQFP - 144/128 SMD Adapter PCB,3,130
+5451,SMD Crystal 7050 5032 3225 PCB Adapter,5,32
+5450,QFN24 0.5mm 0.65mm SMD Adapter PCB,7,45
+5449,QFN28 0.65mm SMD Adapter PCB,7,30
+5448,TO252 SMD Adapter PCB,5,30
+5447,QFN20 LFCSP20 0.5mm 0.65mm SMD Adapter PCB,1,30
+5445,TO263-5 SMD Adapter PCB,3,30
+5444,QFN56 QFN64 0.5mm SMD Adapter PCB,4,45
+5443,FPC FFC 20p 18p 16p 14p 12p 0.5mm SMD Adapter PCB,5,30
+5442,LGA16 QFN16 (3x3mm) 0.5mm Adapter PCB,6,30
+5441,TSSOPII TSSOP56 to DIP56 0.635mm / 0.8mm pitch SDRAM Adapter PCB,6,45
+5440,FPC FFC 4p 6p 8p 10p 0.5mm SMD Adapter PCB,7,25
+5438,DFN10 eMSOP10 0.5mm SMD Adapter PCB,7,25
+5437,QFP32 QFN32 0.65mm 0.8mm SMD Adapter PCB,4,20
+5436,2586 1812 1210 1206 SMA SMB SMC SMD Adapter PCB,4,18
+5435,Cap/Coil SMD Adapter PCB,4,16
+5434,0805/0603/0402/LED SMD to DIP PCB,76,18
+5594,2P Metal Mini Round Shell Aviation Male and Female Circular Connectors GX16 - 16mm,7,60
+5472,DC-DC Step Down 5A - XL4005,7,178
+5471,Atmospheric Pressure(Altitude) + Temperature sensor based on BMP280 - I2C/SPI interface,44,250
+5470,Micro USB Breakout PCB,6,25
+5363,"5 pin JST XH, 2.5mm, M+F, Side Entry",7,13
+5364,"5 pin JST XH, 2.5mm, M+F, Top Entry",9,13
+4358,"Micro USB Connector, B Female, 5 Pin SMD",7,6
+5446,DB9 Breakout PCB,1,30
+5439,USB A-Type Female Breakout PCB,2,25
+5433,Mini USB-B Breakout PCB,2,20
+5468,PIR612 Demo Board,3,500
+5467,Fresnel Lens for PIR Sensor dia 9mm,4,22
+5466,PIR612 - Integrated PIR Sensor for Motion Sensing,45,145
+5465,SMA Female PCB Vertical Mount - SMA-KE,5,35
+3987,RF Transmitter 433MHz ASK 500mW@12V,76,135
+5469,"40x1 Header Strip 2.54mm Pitch, Right Angle, Reversed Black Plastic",78,15
+5463,USB 3.0 Breakout PCB Board with USB Connector Soldered,4,175
+5350,Microwave Doppler Radar Module for Motion Detection RCWL-0516,4,125
+3958,CS5460A - 24 bit ADC - SPI,3,65
+5464,Micro PIR Motion Detection Sensor AM312,6,275
+5408,Mini PIR Motion Detection Sensor HC-SR505,7,220
+4176,PIR Motion Detection Sensor HC-SR501,78,135
+5288,Piezo Passive Buzzer - Vertical,89,20
+3776,4 Key RF Keypad Transmitter 433 Mhz EV1527 - Learning Code,8,500
+4306,"RF Serial Data Link UART, 433 Mhz, +20dBm, HC-12",7,735
+5292,FS8205A TSSOP-8,6,15
+5361,Slide Switch SMD 2P2T - 6 pins - Side Offset Knob,6,12
+4208,20x4 LCD Black on Yellow/Green,5,425
+4825,2SC3356 (R25) SOT23,5,12
+1102,Micro SD Memory Card interface for 3V MCU,4,100
+1448,RF Remote Control Receiver Only - 4 Relays,3,800
+5286,RF Remote Control - 4 CH Relay+Keypad,3,1180
+4865,Enclosure for 7 Segment Displays,34,95
+5349,RS485-TTL Module with Protection & Auto Transmit/Receive Switching,5,425
+5358,40x2 Header Strip 40 pins Female - Dual Row - Straight - 2.54mm Pitch,6,15
+5357,40x2 Header Strip 40 pins Male - Dual Row - Straight - 2.54mm Pitch,7,10
+5356,DHT12 - I2C - Digital Humidity and Temperature Sensor,7,185
+5353,Battery Holder for 12V 23A - PCB Pins,7,16
+5351,SMA Female PCB Edge Mount - SMA-KE,6,35
+5202,Battery Holder for 12V 23A - Wire,5,16
+4121,"433 Mhz Antenna, 3DB, 5cm, Straight, SMA Male",5,90
+5396,CP2103 - USB-UART IC,44,100
+5302,PCB for Output Driver Board - Expandable,5,18
+4611,TVS Diode 12V - SMBJ12CA,6,10
+5347,2.4 Ghz 4DB Wifi Omnidirectional Antenna - IPEX/IPX,6,95
+4122,"2.4 Ghz, 3DB Antenna, SMA - Black",7,135
+4644,SMA to IPX/IPEX/uFL/u.FL RF Adapter Cable - 15cm,5,95
+5346,EMI Ferrite Chip Bead - 2A - 0603 - TDK MPZ1608S221ATA00,5,3
+5345,"RF Antenna Connector, SMD, IPX, IPEX, U.LF, MHF",5,12
+5342,TXS0108E (YF08E) TSSOP20,4,118
+5171,10K (103) L=20mm ST Potentiometer (Volume Control) RV09ACF-40,6,15
+5170,10K (103) L=20mm R/A Potentiometer (Volume Control) RV09A-21,6,15
+5169,10K (103) L=15mm Rotary Potentiometer (Volume Control),7,12
+5344,Solid State Relay(SSR) DC(12V) - AC(100-240V) 2A,6,135
+5337,Pulse Oximeter SpO2 and Heart-Rate Sensor Module - I2C - MAX30100,5,945
+5335,"Color LCD - TFT 1.8"" - 128x160 - ST7735 - SPI - 3V3",5,950
+1453,USB to TTL UART Cable - FTDI FT230X,4,575
+1452,Output Driver Board - Expandable,5,300
+5284,Relay Board - 4 Channel,9,300
+5308,LM2596HVS-5.0 TO263,8,53
+5307,LM2596HVS-ADJ TO263,7,55
+5306,LM2596HVS-12 TO263,7,45
+1454,USB to RS232 Converter - FTDI FT230X,78,565
+1455,USB to RS485 Converter - FTDI FT230X,3,899
+4317,DC-DC Step Down High Voltage(Max 60V) 3A - LM2576HV,4,580
+1451,USB-TTL UART Module - FTDI FT230X,4,550
+5326,48V 7.3A 350W SMPS Mean Well LRS-350-48,5,4300
+5325,48V 4.4A 200W SMPS Mean Well LRS-200-48,5,3400
+5323,24V 8.8A 200W SMPS Mean Well LRS-200-24,5,2800
+5322,24V 6.5A 150W SMPS Mean Well LRS-150-24,2,1898
+5317,12V 29A 350W SMPS Mean Well LRS-350-12,2,3763
+5316,12V 17A 200W SMPS Mean Well LRS-200-12,5,2975
+1449,RF Receiver for Active RFID,5,300
+5300,DC Socket - Threaded Nut Panel Mount - Suitable for 5.5x2.1mm DC Pins,6,10
+5240,Slide Switch Through Hole - 1P2T - Right Angle - 3 pins,23,10
+5261,Slide Switch SMD 2P2T - 6 pins,6,12
+5260,Slide Switch Through Hole 2P2T - 6 pins,6,12
+5239,33nH 0603 300mA Inductor - AIMC-0603-33N,3,3
+5280,SOIC16 SSOP16 0.65mm 1.27mm SMD Adapter PCB,6,22
+5281,TSSOP56 TSSOP48 0.5mm 0.65mm SMD Adapter PCB,76,125
+5279,SOIC32 1.27mm or DIP 1.27mm to 2.54mm SMD Adapter PCB,3,55
+5282,RED LED SMD 5050,6,5
+5297,27R 1% 0603,45,1
+5296,47pF SMD 0603,6,2
+5295,10nF(103) SMD 0603,6,2
+1450,RF Remote Control - 8 CH Relay+Keypad,3,1700
+1445,8 Switch RF Keypad Transmitter - EV1527 - Learning Code 433 Mhz,6,480
+5293,ULN2003A - DIP,8,20
+5291,1x1 Berg Housing 2.54mm,4,1
+5290,Crimping Pins for Berg 2.54mm,3,2
+5287,QFP100 TQFP100 FQFP100 - 0.5mm - Body 14x14mm (16x16mm with Pins) - ZIF Socket,9,3000
+5285,QFP80 TQFP80 FQFP80 - 0.5mm - Body 12x12mm (14x14mm with Pins) - ZIF Socket,3,3000
+5269,4 Relays - Blank PCB,6,58
+5273,Terminal 2P 5.08mm Pluggable Straight,3,20
+5252,8 Relays - Blank PCB,4,111
+5274,Terminal 3P 5.08mm Pluggable Straight,7,30
+5275,Terminal 4P 5.08mm Pluggable Straight,6,40
+5262,Slide Switch - 8.6mm - Horizontal 2P2T,4,14
+5256,Slide Switch - 8.6mm - Vertical 1P2T,3,10
+1261,Prototyping PCB - 5x7cm SS FR4,6,35
+5257,4.7uF 16V (475C A3216) Tantalum AVX,6,7
+5255,"Slide Switch, 1P2T, High Current, Straight",3,15
+5263,"Slide Switch, 1P2T, High Current, Right Angle ",6,15
+5253,FT230XS-R - SSOP16,6,245
+5249,XL6009E1 TO263-5 - IC for DC-DC Boost,3,85
+5245,Push ON/OFF Switch Horiz,6,15
+5248,Green Cap for Push ON/OFF Switches,36,3
+5247,Red Cap for ON/OFF Sw Horiz,36,3
+5526,2P JST PH 2.0mm Top Entry Header,6,1
+5246,4N35 - 6-Pin DIP Phototransistor ,3,18
+5276,GSM Modem - RS232 - SIM800A,6,1250
+1262,Prototyping PCB - 10x7cm SS FR4,6,64
+1443,RF Remote Receiver/Decoder Module - EV1527 / PT226x,3,450
+4745,PT2272 Decoder Blank PCB,6,18
+1142,RC5 Remote Decoder Serial Out,36,195
+3812,NEC Remote Decoder Serial Out,3,195
+5238,"SHT20 - Humidity Temperature Sensor, I2C, Calibrated, 3.3V",6,335
+5220, 9V Battery Snap Connector,6,7
+1444,4 Switch RF Keypad Transmitter - EV1527 - Learning Code 433 Mhz,3,380
+5218,Yellow SMD LED 0603,6,2
+5216,Blue SMD LED 0603,6,2
+5215,Red SMD LED 0603,3,1
+5213,MicroUSB Connector Pitch 5.9mm,6,9
+5211,Mini Limit Switch,6,15
+5131,OB2263 SOT23-6,3,12
+4898,1N5822,637,5
+4896,P6KE180A,7,8
+4888,1nF 2KV (102),7,3
+4876,FR107 1A 1000V DO-41,65,2
+5229,4P JST XH 2.5mm Housing,8,2
+5228,3P JST XH 2.5mm Housing,5,2
+5227,2P JST XH 2.5mm Housing,4,1
+5226,4P JST XH 2.5mm Side Entry Header,4,4
+5225,4P JST XH 2.5mm Top Entry Header,7,3
+5224,3P JST XH 2.5mm Side Entry Header,47,3
+5223,3P JST XH 2.5mm Top Entry Header,4,2
+5222,2P JST XH 2.5mm Side Entry Header,7,2
+5221,2P JST XH 2.5mm Top Entry Header,4,2
+5212,3P AC Power Cable,54,110
+5189,FFC/FPC Cable 40 pin 0.5mm 10cm,5,45
+5188,FFC/FPC Connector 40 Pin 0.5mm Flip Lock,43,45
+5205,Limit Switch Big - Short Lever,3,37
+5174,"OLED Display Screen 0.96"" Blue",3,300
+5158,Limit Switch - Basic,4,20
+5186,Limit Switch - Short Lever,56,28
+5196,Limit Switch - Short Roller,67,38
+5199,Fuse Holder - Panel Mount for 5x20mm Fuses,8,20
+5197,Limit Switch - Curve Short Lever,65,40
+4368,AC Power Socket - Screw Mount - IEC 60320 C14 - 2500W (250Vx10A),8,18
+5184,AC Power Socket with Fuse Holder - Screw Mount - IEC C14,34,35
+5163,Lithum Battery Charger with Protection TP4056 - MicroUSB,3,145
+5168,Red Knob for 6MM Shaft Encoders & Pots,4,8
+5132,Audio & Signal isolation transformer 600:600,4,58
+5100,3.3uH (3R3) SMD 3mm Inductor,22,12
+5099,10uH (100) SMD 3mm Inductor,2,12
+3870,Relay 12V,3,22
+5348,4P Housing JST VH 3.96mm,3,4
+5183,3P Housing JST VH 3.96mm,1,3
+5182,Crimping pins for JST VH 3.96mm,2,2
+5180,Crimping Tool for Molex KK CPU type connectors (YAC13),2,2250
+5162,2P Housing JST VH 3.96mm,3,2
+5117,FRC IDC Crimping Tool HT-214,3,1475
+5096,4P Header JST VH 3.96mm,3,5
+5095,3P Header JST VH 3.96mm,4,4
+5094,3P Header Empty Middle JST VH 3.96mm,5,4
+5093,2P Header JST VH 3.96mm,5,3
+3951,Tactile Switch 6x6x7mm,5,2
+5473,Piezo Element - 20mm,22,10
+5052,Tactile Switch SMD 3x6mm Side Press,44,3
+5051,Bright While LED SMD Package PLCC2 (1210 3528),2,2
+5050,DC Socket - Snap Panel Mount - Suitable for 5.5x2.1mm DC Pins,4,12
+5049,Red Square Cap for Omron B3F Series Switches,5,2
+5048,Black Square Cap for Omron B3F Series Switches,5,2
+5047,Green Square Cap for Omron B3F Series Switches,6,2
+5046,White Square Cap for Omron B3F Series Switches,2,2
+5045,Yellow Square Cap for Omron B3F Series Switches,4,2
+5044,Blue Square Cap for Omron B3F Series Switches,5,2
+5043,White Round Cap for Omron B3F Series Switches,5,3
+5042,Green Round Cap for Omron B3F Series Switches,5,3
+5041,Yellow Round Cap for Omron B3F Series Switches,335,3
+5040,Blue Round Cap for Omron B3F Series Switches,53,3
+5039,Red Round Cap for Omron B3F Series Switches,4,3
+5028,Transparent Cover for square switch caps,3,3
+4339,Black Round Cap for Omron B3F Series Switches,3,3
+4338,Tactile Switch Square Head - Omron B3F-4055 - 12x12x7.3mm,6,10
+5156,Crimping Tool for JST XH/VH type connectors (YAC12),3,3500
+5139,Crimping Pins for JST XH 2.5mm,8,1
+5134,Crimping Tool for JST XH/VH type connectors (YAC12),33,3500
+5133,Crimping Tool for Minifit connectors (YAC4),3,2350
+5086,FDS9435A (9435A) SOIC8 P-CH MOSFET,76,15
+5084,IRLR2905Z (LR2905) TO252 N-CH MOSFET,4,36
+5083,AO3402 (A29T) SOT23 N-CH MOSFET,3,5
+5080,AO3415 AF SOT23 P-CH MOSFET,6,12
+5076,FDV301N-NL SOT23 N-CH MOSFET,56,12
+5075,AO3416 AG SOT23 N-CH MOSFET,5,12
+5072,IRF7832TRPBF (IRF7832) SOIC8 N-CH MOSFET,5,25
